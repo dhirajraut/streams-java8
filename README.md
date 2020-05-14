@@ -7,7 +7,7 @@
 > * Spring Boot Project (2.2.7.RELEASE).
 > * Sample POJO.
 > * Test data for 500 Users.
-> * Filters, Predicates.
+> * Filters, Standalone Predicates.
 
 ## Release History
 
